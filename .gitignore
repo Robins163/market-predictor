@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.claudeignore
+ML_Engineer_Exercise.docx
+progress.md
+BUILD_LOG.md
+CLAUDE.md
+ASSESSMENT.md
